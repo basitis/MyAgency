@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">MyAgency</string>
+
+    <string name="login_app">Login To My  Agency</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">In</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_company_register">Register Your Company</string>
+    <string name="title_activity_student_register">Register Student/Employee</string>
+    <string name="nameerror">Invalid Name</string>
+    <string name="ageerror">Invalid age</string>
+    <string name="title_activity_post_job">Post New Job</string>
+    <string name="error_invalid_number">Invalid phone number</string>
+    <string name="invalid_bond_period">Invalid bond period</string>
+
+    <string name="title_activity_iam">IamActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="i_am_student">I am Student</string>
+    <string name="i_am_recruiter">I am Recruiter</string>
+    <string name="con_reg_id">REG_ID</string>
+    <string-array name="department">
+        <item>Select Course</item>
+        <item>MBA / PGDM / MMS</item>
+        <item>BCA / BCM</item>
+        <item>B .Com </item>
+        <item>B.Sc</item>
+        <item>B.A.</item>
+        <item>BBA / BBM / BBS</item>
+        <item>MCA</item>
+        <item>M.A. </item>
+        <item>M.E. / M.Tech</item>
+        <item>B.Arch</item>
+        <item>B.Des </item>
+        <item>B.Ed</item>
+        <item>B.Pharma</item>
+        <item>B.Tourism</item>
+        <item>BDS</item>
+        <item>BFA</item>
+        <item>BHM</item>
+        <item>BJMC</item>
+        <item>BVSc</item>
+        <item>Diploma</item>
+        <item>LLB</item>
+        <item>MBBS</item>
+        <item>CA</item>
+        <item>CS</item>
+        <item>ICWA</item>
+        <item>LLM</item>
+        <item>M.Arch</item>
+        <item>M.Com</item>
+        <item>M.D.</item>
+        <item>M.Des</item>
+        <item>M.Ed</item>
+        <item>M.Ekistics</item>
+        <item>M.Pharma</item>
+        <item>M.Phil</item>
+        <item>M.Sc</item>
+        <item>M.Tourism</item>
+        <item>MDS</item>
+        <item>MFA</item>
+        <item>MHM</item>
+        <item>MJMC</item>
+        <item>MVSc</item>
+        <item>PG Diploma</item>
+        <item>MBE</item>
+        <item>MSW</item>
+        <item>MCM</item>
+    </string-array>
+    <string-array name="bond">
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>5.5</item>
+    </string-array>
+</resources>
